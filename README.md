@@ -1,1 +1,1 @@
-# amld-africa-2021
+# Hands-on Multi-Agent Reinforcement Learning using Mava
