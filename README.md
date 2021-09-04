@@ -33,7 +33,7 @@ panoply of features it provides.
 In the second part of the workshop, we will walk through two notebooks and showcase the flexibility
 of `mava` in implementing and training multi agent systems.
 
-### Flatland notebook
+### Part I: Flatland notebook
 
 In this notebook, we use `MADQN` from `mava` to learn the route of trains using the open sourced
 flatland environnement.
@@ -42,7 +42,7 @@ flatland environnement.
 
 For more information regarding flatland, we recommend visiting their [official documentation](http://flatland-rl-docs.s3-website.eu-central-1.amazonaws.com/01_readme.html).
 
-### Mava overview notebook
+### Part II: Mava overview notebook
 In this notebook, we showcase the `mava` features and capabilities.
 We demonstrate the simplicity of using different networks, architectures, agents, and an easy-to-use
 integrated loggers like `tensorboard` to benchmark results.
