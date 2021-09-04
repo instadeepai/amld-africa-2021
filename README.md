@@ -3,18 +3,18 @@
 
 <img src="https://raw.githubusercontent.com/instadeepai/Mava/develop/docs/images/mava.png" />
 
-This workshop aims to provide an overview of multi agent reinforcement learning theory
+This workshop aims to provide an overview of multi-agent reinforcement learning theory
 and its applications.
 
-MARL systems have gain more interest in the last years as it extends the decision-making capabilities
+MARL systems have gained more interest in the last years as it extends the decision-making capabilities
 of single-agent reinforcement learning to larger and more complex systems.
 
-In real world applications, most of the problems are designed as a multi agent decision systems:
+In real world applications, most of the problems are designed as a multi-agent decision systems:
 This is the case for managing a fleet of autonomous vehicles, or augmenting the capacity
-of train management system, and the list is long.
+of train management systems, etc. - the list is long.
 
 Having said that, this workshop will guide you from the theory and foundations of RL & MARL
-to hands-on experience with introductory examples using `mava` framework.
+to hands-on experience with introductory examples using the `mava` framework.
 
 ### RL foundations
 We start by giving an introduction to the RL field, explaining the value based and policy methods,
@@ -22,7 +22,7 @@ and providing the ideas behind some algorithms like `DQN`, `DDPG`, `D4PG`.
 
 ### Deep RL in practice
 In this section, we talk about Multi agent RL via the Deutsche Bahn use case.
-We provide as well intuitions on the different MARL training architectures and their machinery.
+We provide intuitions on the different MARL training architectures as well as details on their machinery.
 
 ### Mava: Open-Source Framework for Multi-Agent Reinforcement Learning
 We finish the presentation part by explaining the `mava` framework, how it works, and the
