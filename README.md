@@ -1,6 +1,7 @@
 # AMLD Africa 2021 Workshop
-<img src="https://raw.githubusercontent.com/instadeepai/Mava/develop/docs/images/mava.png" />
 ## Hands-on Multi-Agent Reinforcement Learning using Mava
+
+<img src="https://raw.githubusercontent.com/instadeepai/Mava/develop/docs/images/mava.png" />
 
 This workshop aims to provide an overview of multi agent reinforcement learning theory
 and its applications.
@@ -27,7 +28,8 @@ We provide as well intuitions on the different MARL training architectures and t
 We finish the presentation part by explaining the `mava` framework, how it works, and the
 panoply of features it provides.
 
-# --------------------------------------------------------------------------------------
+---
+
 In the second part of the workshop, we will walk through two notebooks and showcase the flexibility
 of `mava` in implementing and training multi agent systems.
 
@@ -47,5 +49,3 @@ integrated loggers like `tensorboard` to benchmark results.
 
 We also provide insights on the distributed training, which is one of the essential building
 blocks of `mava` that enhance scaling properties.
-
-
