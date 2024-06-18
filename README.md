@@ -1,8 +1,8 @@
 # AMLD Africa 2021 Workshop
 ## Hands-on Multi-Agent Reinforcement Learning using Mava
 
-<a href="https://github.com/instadeepai/Mava" target="_blank">
-  <img src="https://raw.githubusercontent.com/instadeepai/Mava/develop/docs/images/mava.png"/>
+<a href="https://actu.epfl.ch/news/amld-africa-2021-tickets-now-available/" target="_blank">
+  <img src="https://actu.epfl.ch/image/108066/original/2048x1150.jpg"/>
 </a>
 
 This workshop aims to provide an overview of multi-agent reinforcement learning theory
